@@ -1,0 +1,21 @@
+.button {
+    border: 1px solid #007aff; /* Warna border sesuaikan dengan preferensi Anda */
+    border-radius: 2px; /* Radius sudut kotak sesuaikan dengan preferensi Anda */
+    background-color: #007aff; /* Warna latar belakang tombol sesuaikan dengan preferensi Anda */
+    color: white; /* Warna teks tombol sesuaikan dengan preferensi Anda */
+    padding: 5px 10px; /* Sesuaikan ukuran padding sesuai kebutuhan Anda */
+    cursor: pointer;
+    outline: none; /* Hilangkan outline saat tombol aktif */
+    height: 40px;
+    width: 108px;
+    font-size: 15px;
+  }
+  
+.avatar {
+    height: 70px;
+    width: 70px;
+}
+
+.icon {
+    font-size: 30px;
+}
